@@ -22,7 +22,7 @@ a{
 
 section .pagination{
     margin: 50px auto;
-    max-width: 180px;
+    max-width: 200px;
     height: 47px;
     display: flex;
     justify-content:space-between;
